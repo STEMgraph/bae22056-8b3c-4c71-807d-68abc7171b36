@@ -1,6 +1,7 @@
 <!---
 {
   "id": "bae22056-8b3c-4c71-807d-68abc7171b36",
+  "teaches": "Extracting and Filtering JSON Data with `jq`",
   "depends_on": ["e8add8e9-7a67-4b50-af89-6c1ce6558e0d"],
   "author": "Stephan Bökelmann",
   "first_used": "2025-06-03",
